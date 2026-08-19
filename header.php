@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TUTU - Seu dinheiro merece mais do que um extrato</title>
+  <meta name="description" content="Um assistente financeiro com IA no seu WhatsApp. Organiza gastos, analisa hábitos e cria planos reais para você.">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css">
+  
+  <!-- Favicons -->
+  <link rel="icon" type="image/png" href="favicon.png" sizes="32x32">
+</head>
+<body>
+  <!-- Page Background Wrapper -->
+  <div class="page-wrapper">
+    <!-- Main white rounded card layout -->
+    <main class="site-container">
+      
+      <!-- HEADER / NAVBAR -->
+      <header class="main-header">
+        <a href="#" class="logo">
+          <img src="assets/logo.png" alt="Logo" style="height: 32px; width: auto;">
+          <span>Tutu</span>
+        </a>
+        
+        <nav>
+          <ul class="nav-links">
+            <li><a href="#apresentacao" class="active">O Que É</a></li>
+            <li><a href="#como-funciona">Como Funciona</a></li>
+            <li><a href="#funcionalidades">Recursos</a></li>
+            <li><a href="#precos">Preços</a></li>
+          </ul>
+        </nav>
+        
+        <div class="header-actions">
+          <a href="https://wa.me/5500000000000?text=Quero%20conhecer%20o%20Tutu" target="_blank" class="btn-yellow">Quero o Tutu</a>
+        </div>
+      </header>
