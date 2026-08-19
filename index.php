@@ -98,7 +98,7 @@
             <p>Seja um dos 200 primeiros apoiadores e tenha acesso permanente às melhores condições.<br><br><strong>R$ 19,90/mês</strong> (Assinatura 6 Meses)<br><br><span style="color: var(--clr-accent);">🎁 <strong>Bônus:</strong> 2 Mentorias Exclusivas</span></p>
           </div>
           <div style="margin-top: 1.5rem;">
-            <a href="https://www.asaas.com/c/rgqpillzkkqub7k8" target="_blank" class="btn-primary" style="background: var(--clr-accent); color: var(--clr-primary); font-weight: bold;">Garantir minha vaga</a>
+            <a href="https://www.asaas.com/c/rgqpillzkkqub7k8" target="_blank" class="btn-white" style="border-radius: 12px; text-align: center; display: block;">Garantir minha vaga</a>
           </div>
         </div>
 
@@ -108,7 +108,7 @@
             <p>Acesso completo a todas as ferramentas financeiras do Tutu para manter seu controle em dia.<br><br><strong>R$ 29,90/mês</strong><br><br><span style="opacity: 0.7;">(Sem mentorias bônus inclusas)</span></p>
           </div>
           <div style="margin-top: 1.5rem;">
-            <a href="#" class="btn-outline" style="border-color: var(--clr-primary); color: var(--clr-primary);">Assinar Mensal</a>
+            <a href="https://www.asaas.com/c/u721kxkwu14ds7t4" target="_blank" class="btn-primary" style="background: var(--clr-primary); color: white; border: none; border-radius: 12px;">Assinar Mensal</a>
           </div>
         </div>
         

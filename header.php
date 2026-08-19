@@ -40,6 +40,6 @@
         </nav>
         
         <div class="header-actions">
-          <a href="https://wa.me/5500000000000?text=Quero%20conhecer%20o%20Tutu" target="_blank" class="btn-yellow">Quero o Tutu</a>
+          <a href="https://www.asaas.com/c/rgqpillzkkqub7k8" target="_blank" class="btn-yellow">Quero o Tutu</a>
         </div>
       </header>
