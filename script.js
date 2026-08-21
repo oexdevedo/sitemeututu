@@ -85,4 +85,62 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
   });
+  // 5. Navigate to the next section on ArrowDown key press
+  let isScrolling = false;
+  window.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      if (isScrolling) return;
+
+      const sequence = [
+        '.hero-section',
+        '.pillars-grid',
+        '.features-intro',
+        '.features-grid-2x2',
+        '.destinations-section',
+        '.pricing-wrapper',
+        '.booking-section'
+      ];
+      const pageSections = sequence.map(sel => document.querySelector(sel)).filter(el => el !== null);
+      
+      if (pageSections.length === 0) return;
+
+      const currentScroll = window.scrollY;
+      const headerOffset = 100;
+      let nextSection = null;
+
+      for (let i = 0; i < pageSections.length; i++) {
+        // Calculate absolute top position relative to document
+        const elementRect = pageSections[i].getBoundingClientRect();
+        const absoluteTop = elementRect.top + window.scrollY;
+        
+        const adjustedTop = absoluteTop - headerOffset;
+        
+        // Find the first section that is significantly below our current scroll
+        if (adjustedTop > currentScroll + 10) {
+          nextSection = pageSections[i];
+          break;
+        }
+      }
+
+      // If we didn't find a next section, we are at the end, so go to the first section
+      if (!nextSection) {
+        nextSection = pageSections[0];
+      }
+
+      isScrolling = true;
+      const elementPosition = nextSection.getBoundingClientRect().top;
+      const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+
+      window.scrollTo({
+        top: offsetPosition,
+        behavior: 'smooth'
+      });
+
+      // Prevent multiple rapid keydowns from firing while scrolling
+      setTimeout(() => {
+        isScrolling = false;
+      }, 800);
+    }
+  });
 });
