@@ -156,7 +156,7 @@
                 </ul>
               </div>
               <div style="margin-top: 1.5rem;">
-                <a href="https://tutu.exdevedor.com/signup" target="_blank" class="btn-pkg">Quero o Essencial &nbsp;↗</a>
+                <a href="https://tutu.exdevedor.com/signup-essencial" target="_blank" class="btn-pkg">Quero o Essencial &nbsp;↗</a>
               </div>
             </div>
 
@@ -199,7 +199,7 @@
                 </ul>
               </div>
               <div style="margin-top: 1.5rem;">
-                <a href="https://www.asaas.com/c/rgqpillzkkqub7k8" target="_blank" class="btn-pkg">Quero a Mentoria &nbsp;↗</a>
+                <a href="https://tutu.exdevedor.com/signup-mentoria" target="_blank" class="btn-pkg">Quero a Mentoria &nbsp;↗</a>
               </div>
             </div>
           </div>
