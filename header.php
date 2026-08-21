@@ -9,7 +9,7 @@
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
   
   <!-- Styles -->
   <link rel="stylesheet" href="styles.css">
@@ -26,20 +26,20 @@
       <!-- HEADER / NAVBAR -->
       <header class="main-header">
         <a href="#" class="logo">
-          <img src="assets/logo.png" alt="Logo" style="height: 32px; width: auto;">
+          <img src="assets/logo.png" alt="Logo" style="height: 30px; width: auto;">
           <span>Tutu</span>
         </a>
         
         <nav>
           <ul class="nav-links">
             <li><a href="#apresentacao" class="active">O Que É</a></li>
-            <li><a href="#como-funciona">Como Funciona</a></li>
             <li><a href="#funcionalidades">Recursos</a></li>
+            <li><a href="#como-funciona">Como Funciona</a></li>
             <li><a href="#precos">Preços</a></li>
           </ul>
         </nav>
         
         <div class="header-actions">
-          <a href="https://www.asaas.com/c/rgqpillzkkqub7k8" target="_blank" class="btn-yellow">Quero o Tutu</a>
+          <a href="https://tutu.exdevedor.com/signup" target="_blank" class="btn-dark-pill">Quero o Tutu</a>
         </div>
       </header>
