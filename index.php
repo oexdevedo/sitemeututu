@@ -45,12 +45,13 @@
         <div class="inner-content">
           <section class="features-section" id="funcionalidades">
             <div class="features-intro reveal">
-              <h2 class="features-title">Chega de preencher planilhas complexas ou usar apps complicados.</h2>
+              <h2 class="features-title">Chega de caçar recibo no bolso ou encarar aplicativos cheios de gráficos indecifráveis.</h2>
               <p class="features-desc">
-                A vida real acontece depressa: é o café na padaria, o Uber na chuva, o almoço de trabalho, a conta que vence no dia 10.<br>
-                Quando você chega em casa, a última coisa que quer fazer é abrir uma planilha cinzenta e caçar comprovantes amarrotados no bolso.<br><br>
-                O Tutu nasceu para simplificar a sua vida, ele funciona do jeito que você vive: simples, rápido e sem frescura.<br><br>
-                Basta um áudio de 3 segundos "Tutu gastei 12 Reais de lanche" que ele anota sua despesas e ainda informa quanto pode gastar ao longo do dia.
+                A vida real é prática — o seu controle financeiro também tem que ser.<br><br>
+                Mande um áudio rápido enquanto fecha a conta:<br><br>
+                — "Tutu, gastei R$ 12 no lanche."<br><br>
+                Ele registra o valor, audita o seu orçamento e te devolve na mesma hora o saldo livre do dia.<br><br>
+                Zero esforço. Zero planilhas. 100% de controle.
               </p>
             </div>
             
