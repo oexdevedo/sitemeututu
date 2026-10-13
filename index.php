@@ -10,7 +10,7 @@
           </div>
 
           <h1 class="hero-title reveal delay-1">
-             O seu parceiro inteligente com IA que entende a sua rotina.<br>
+             O seu parceiro inteligente com <span class="hero-title-highlight">IA</span> que entende a sua rotina.
           </h1>
 
           <p class="hero-subtitle reveal delay-2">

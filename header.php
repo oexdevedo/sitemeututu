@@ -6,10 +6,10 @@
   <title>TUTU - Seu dinheiro merece mais do que um extrato</title>
   <meta name="description" content="Um assistente financeiro com IA no seu WhatsApp. Organiza gastos, analisa hábitos e cria planos reais para você.">
   
-  <!-- Fonts -->
+  <!-- Fonts: DM Sans (apoio/leitura) & Fraunces (display fallback para Bogart) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&display=swap" rel="stylesheet">
   
   <!-- Styles -->
   <link rel="stylesheet" href="styles.css">
