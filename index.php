@@ -19,7 +19,7 @@
           
           <div class="hero-actions reveal delay-3">
             <a href="https://tutu.exdevedor.com/signup" target="_blank" class="btn-hero-primary">
-              Conhecer o Tutu &nbsp;→
+              Comece Grátis &nbsp;→
             </a>
           </div>
         </div>
@@ -80,6 +80,12 @@
                 <p>Descubra vazamentos invisíveis no orçamento e receba alertas inteligentes antes de estourar o mês, direto no seu WhatsApp sem complicações.</p>
               </div>
             </div>
+
+            <div class="section-cta-wrap reveal delay-3">
+              <a href="https://tutu.exdevedor.com/signup" target="_blank" class="btn-cta-section">
+                Comece Grátis &nbsp;→
+              </a>
+            </div>
           </section>
         </div>
       </div>
@@ -120,6 +126,12 @@
                 <div class="dest-card-desc" style="color: rgba(255,255,255,0.75);">Ele te avisa sobre seus compromissos financeiros e envia direto o link da sua mentoria, sem você esquecer nada.</div>
               </div>
             </div>
+          </div>
+
+          <div class="section-cta-wrap reveal delay-4">
+            <a href="https://tutu.exdevedor.com/signup" target="_blank" class="btn-cta-section">
+              Comece Grátis &nbsp;→
+            </a>
           </div>
         </section>
 
@@ -195,6 +207,12 @@
               </div>
             </div>
           </div>
+
+          <div class="section-cta-wrap reveal delay-4">
+            <a href="https://tutu.exdevedor.com/signup" target="_blank" class="btn-cta-section">
+              Comece Grátis &nbsp;→
+            </a>
+          </div>
         </section>
 
         <!-- BOOKING STEPS -> COMO FUNCIONA -->
@@ -216,10 +234,21 @@
               <span class="step-text" style="font-size: 0.85rem; font-weight: 500; max-width: 200px; color: rgba(255,255,255,0.85);">Casais que desejam falar de finanças e realizar projetos maiores juntos.</span>
             </div>
           </div>
+
+          <div class="section-cta-wrap reveal delay-4">
+            <a href="https://tutu.exdevedor.com/signup" target="_blank" class="btn-cta-section">
+              Comece Grátis &nbsp;→
+            </a>
+          </div>
         </section>
       </div>
 
       <div class="footer-giant-text reveal">
         TESTE GRATIS POR <span>14 </span> DIAS.
+        <div class="section-cta-wrap reveal delay-1" style="margin-top: 2.5rem;">
+          <a href="https://tutu.exdevedor.com/signup" target="_blank" class="btn-cta-section">
+            Comece Grátis &nbsp;→
+          </a>
+        </div>
       </div>
 <?php include 'footer.php'; ?>
