@@ -21,15 +21,8 @@
             <a href="https://tutu.exdevedor.com/signup" target="_blank" class="btn-hero-primary">
               Conhecer o Tutu &nbsp;→
             </a>
-            <a href="#funcionalidades" class="btn-hero-secondary">
-              Ver Recursos
-            </a>
           </div>
         </div>
-
-        <a href="#funcionalidades" class="hero-scroll-pill reveal delay-4">
-          SCROLL &darr;
-        </a>
       </section>
 
       <!-- STATS / PILLARS GRID -->
