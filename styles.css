@@ -510,12 +510,12 @@
   }
 
   .pillar-card {
-    height: 350px;
+    height: 175px;
     border-radius: 24px;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 2rem;
+    padding: 1.5rem 1.8rem;
     text-align: center;
     color: var(--clr-primary);
     position: relative;
@@ -541,7 +541,7 @@
   }
 
   .pillar-white:hover {
-    transform: translateY(-10px);
+    transform: translateY(-8px);
     box-shadow: 0 25px 45px rgba(5, 0, 26, 0.4);
   }
 
@@ -551,13 +551,13 @@
   }
 
   .highlight-pillar {
-    height: 400px;
-    margin-top: -30px;
+    height: 200px;
+    margin-top: -15px;
     box-shadow: 0 20px 40px rgba(5, 0, 26, 0.35);
   }
 
   .highlight-pillar:hover {
-    transform: translateY(-42px) scale(1.03);
+    transform: translateY(-22px) scale(1.03);
     box-shadow: 0 30px 60px rgba(208, 255, 0, 0.4);
   }
 
