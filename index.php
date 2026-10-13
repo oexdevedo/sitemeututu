@@ -47,7 +47,7 @@
             <div class="features-intro reveal">
               <h2 class="features-title">Chega de caçar recibo no bolso ou encarar aplicativos cheios de gráficos indecifráveis.</h2>
               <p class="features-desc">
-                A vida real é prática — o seu controle financeiro também tem que ser.<br><br>
+                A vida real é prática  o seu controle financeiro também tem que ser.<br><br>
                 Mande um áudio rápido enquanto fecha a conta:<br><br>
                 — "Tutu, gastei R$ 12 no lanche."<br><br>
                 Ele registra o valor, audita o seu orçamento e te devolve na mesma hora o saldo livre do dia.<br><br>
