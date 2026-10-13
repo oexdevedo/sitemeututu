@@ -234,12 +234,6 @@
               <span class="step-text" style="font-size: 0.85rem; font-weight: 500; max-width: 200px; color: rgba(255,255,255,0.85);">Casais que desejam falar de finanças e realizar projetos maiores juntos.</span>
             </div>
           </div>
-
-          <div class="section-cta-wrap reveal delay-4">
-            <a href="https://tutu.exdevedor.com/signup" target="_blank" class="btn-cta-section">
-              Comece Grátis &nbsp;→
-            </a>
-          </div>
         </section>
       </div>
 
