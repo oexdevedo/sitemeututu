@@ -14,7 +14,6 @@
           </h1>
 
           <p class="hero-subtitle reveal delay-2">
-            O seu parceiro inteligente com IA que entende a sua rotina.<br>
             Para que você possa respirar aliviado, quitar dívidas e construir patrimônio.
           </p>
           
